@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/* solucao 1052 */
+/* solucao 1059 */
 int main()
 {
     int mes;
